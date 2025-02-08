@@ -1,0 +1,15 @@
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\bin\Debug\net6.0\LeetCodeSandbox.exe
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\bin\Debug\net6.0\LeetCodeSandbox.deps.json
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\bin\Debug\net6.0\LeetCodeSandbox.runtimeconfig.json
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\bin\Debug\net6.0\LeetCodeSandbox.dll
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\bin\Debug\net6.0\LeetCodeSandbox.pdb
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.csproj.AssemblyReference.cache
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.AssemblyInfoInputs.cache
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.AssemblyInfo.cs
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.csproj.CoreCompileInputs.cache
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.dll
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\refint\LeetCodeSandbox.dll
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.pdb
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\LeetCodeSandbox.genruntimeconfig.cache
+C:\Users\sirzachalot\source\repos\LeetCodeSandbox\LeetCodeSandbox\obj\Debug\net6.0\ref\LeetCodeSandbox.dll
