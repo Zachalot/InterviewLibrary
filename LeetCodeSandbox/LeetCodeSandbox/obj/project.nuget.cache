@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "voh6ztKnlQns0qU806VvbQ+zw59ovGk+Nv8dtKNSty/3Uop8ZTPbAnJW4ry++JVxDxbXKAjI0tuOal78IYxrNA==",
+  "dgSpecHash": "54FzYCB8XS8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sirzachalot\\source\\repos\\LeetCodeSandbox\\LeetCodeSandbox\\LeetCodeSandbox.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\LeetCodeSandbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sizachalot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\sizachalot\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\sizachalot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\sizachalot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

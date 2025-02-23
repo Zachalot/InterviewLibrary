@@ -80,5 +80,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
+#random crap
+**/.vs
+**/*.testlog
 This template covers a wide range of common files and directories that you typically don't want to include in your repository. Feel free to customize it further based on your specific project needs. Happy coding!

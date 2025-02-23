@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E615E5-32E5-16B1-2BC8-B274B0D507B8}|LeetCodeSandboxTests\\LeetCodeSandboxTests.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandboxtests\\closestringstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E615E5-32E5-16B1-2BC8-B274B0D507B8}|LeetCodeSandboxTests\\LeetCodeSandboxTests.csproj|solutionrelative:leetcodesandboxtests\\closestringstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092B3634-9948-4FAE-87C5-7B36182EE033}|HashMaps\\HashMaps.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\hashmaps\\closestrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092B3634-9948-4FAE-87C5-7B36182EE033}|HashMaps\\HashMaps.csproj|solutionrelative:hashmaps\\closestrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E615E5-32E5-16B1-2BC8-B274B0D507B8}|LeetCodeSandboxTests\\LeetCodeSandboxTests.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandboxtests\\increasingtriplettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E615E5-32E5-16B1-2BC8-B274B0D507B8}|LeetCodeSandboxTests\\LeetCodeSandboxTests.csproj|solutionrelative:leetcodesandboxtests\\increasingtriplettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D99E285-D41E-40C2-9944-FC5ACA8E4690}|Arrays\\Arrays.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\arrays\\maxnumberksumpairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D99E285-D41E-40C2-9944-FC5ACA8E4690}|Arrays\\Arrays.csproj|solutionrelative:arrays\\maxnumberksumpairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D99E285-D41E-40C2-9944-FC5ACA8E4690}|Arrays\\Arrays.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\arrays\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D99E285-D41E-40C2-9944-FC5ACA8E4690}|Arrays\\Arrays.csproj|solutionrelative:arrays\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandbox\\increasingtriplet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|solutionrelative:leetcodesandbox\\increasingtriplet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E615E5-32E5-16B1-2BC8-B274B0D507B8}|LeetCodeSandboxTests\\LeetCodeSandboxTests.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandboxtests\\reversevowelstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E615E5-32E5-16B1-2BC8-B274B0D507B8}|LeetCodeSandboxTests\\LeetCodeSandboxTests.csproj|solutionrelative:leetcodesandboxtests\\reversevowelstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandbox\\wordladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|solutionrelative:leetcodesandbox\\wordladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandbox\\productexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|solutionrelative:leetcodesandbox\\productexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandbox\\reversevowelsproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|solutionrelative:leetcodesandbox\\reversevowelsproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandbox\\lrucache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|solutionrelative:leetcodesandbox\\lrucache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|c:\\users\\sizachalot\\repos\\interviewlibrary\\leetcodesandbox\\leetcodesandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C2609-3A5B-42A0-AC54-78D0E2DD104B}|LeetCodeSandbox\\LeetCodeSandbox.csproj|solutionrelative:leetcodesandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloseStringsTest.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandboxTests\\CloseStringsTest.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandboxTests\\CloseStringsTest.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandboxTests\\CloseStringsTest.cs",
+              "RelativeToolTip": "LeetCodeSandboxTests\\CloseStringsTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:22:33.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloseStrings.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\HashMaps\\CloseStrings.cs",
+              "RelativeDocumentMoniker": "HashMaps\\CloseStrings.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\HashMaps\\CloseStrings.cs",
+              "RelativeToolTip": "HashMaps\\CloseStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:21:05.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaxNumberKSumPairs.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\Arrays\\MaxNumberKSumPairs.cs",
+              "RelativeDocumentMoniker": "Arrays\\MaxNumberKSumPairs.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\Arrays\\MaxNumberKSumPairs.cs",
+              "RelativeToolTip": "Arrays\\MaxNumberKSumPairs.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:59:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\Arrays\\Class1.cs",
+              "RelativeDocumentMoniker": "Arrays\\Class1.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\Arrays\\Class1.cs",
+              "RelativeToolTip": "Arrays\\Class1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:32:33.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncreasingTripletTests.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandboxTests\\IncreasingTripletTests.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandboxTests\\IncreasingTripletTests.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandboxTests\\IncreasingTripletTests.cs",
+              "RelativeToolTip": "LeetCodeSandboxTests\\IncreasingTripletTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:01:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncreasingTriplet.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\IncreasingTriplet.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandbox\\IncreasingTriplet.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\IncreasingTriplet.cs",
+              "RelativeToolTip": "LeetCodeSandbox\\IncreasingTriplet.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAWwFwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:01:24.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductExceptSelf.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\ProductExceptSelf.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandbox\\ProductExceptSelf.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\ProductExceptSelf.cs",
+              "RelativeToolTip": "LeetCodeSandbox\\ProductExceptSelf.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:03:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReverseVowelsTests.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandboxTests\\ReverseVowelsTests.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandboxTests\\ReverseVowelsTests.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandboxTests\\ReverseVowelsTests.cs",
+              "RelativeToolTip": "LeetCodeSandboxTests\\ReverseVowelsTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:26:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReverseVowelsProblem.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\ReverseVowelsProblem.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandbox\\ReverseVowelsProblem.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\ReverseVowelsProblem.cs",
+              "RelativeToolTip": "LeetCodeSandbox\\ReverseVowelsProblem.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:23:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LRUCache.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\LRUCache.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandbox\\LRUCache.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\LRUCache.cs",
+              "RelativeToolTip": "LeetCodeSandbox\\LRUCache.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:22:51.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordLadder.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\WordLadder.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandbox\\WordLadder.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\WordLadder.cs",
+              "RelativeToolTip": "LeetCodeSandbox\\WordLadder.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:22:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeSandbox\\Program.cs",
+              "ToolTip": "C:\\Users\\sizachalot\\repos\\InterviewLibrary\\LeetCodeSandbox\\LeetCodeSandbox\\Program.cs",
+              "RelativeToolTip": "LeetCodeSandbox\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:22:51.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
